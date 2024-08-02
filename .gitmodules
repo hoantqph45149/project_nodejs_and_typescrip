@@ -1,3 +1,6 @@
 [submodule "Nike-xuong-BE"]
 	path = Nike-xuong-BE
 	url = https://github.com/hoantqph45149/Nike-Xuong-BE.git
+[submodule "Nike-xuong-FE-TypeScrip"]
+	path = Nike-xuong-FE-TypeScrip
+	url = https://github.com/hoantqph45149/Nike-Xuong-FE.git
